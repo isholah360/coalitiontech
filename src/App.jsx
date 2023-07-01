@@ -1,12 +1,13 @@
 
 import './App.css'
+import { Header } from './components'
 
 function App() {
   
 
   return (
     <>
-    Hello interviewer
+     <Header/>
     </>
   )
 }
